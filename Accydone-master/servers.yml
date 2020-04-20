@@ -1,0 +1,13 @@
+---
+- name: dbserver
+  ip: 192.168.121.104
+  port: 2204
+  memory: 512
+  group: db
+
+- name: webserver01
+  ip: 192.168.121.102
+  port: 2202
+  memory: 512
+  group: web
+
