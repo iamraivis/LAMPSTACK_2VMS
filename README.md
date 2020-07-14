@@ -1,2 +1,2 @@
-# RALFSDEDANSIBLE
-RALFS IR DED NO ANSIBLE
+# Lampstack
+Ansible, vagrant, lamp stack
